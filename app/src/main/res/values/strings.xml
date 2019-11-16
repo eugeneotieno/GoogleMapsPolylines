@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TruckSend</string>
+    <string name="action_settings">Settings</string>
+    <string name="set_location">Set location</string>
+    <string name="to_location_empty">To: -------</string>
+    <string name="from_current_location_empty">From: Current location</string>
+    <string name="drag_info">Long press any marker and drag to a position for accurate position</string>
+    <string name="loading">loading...</string>
+    <string name="request_cancelled">Request cancelled</string>
+</resources>
